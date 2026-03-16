@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "version": "1.0",
+    "saved_at": "",
+    "block_count": 4,
+    "source_file": "",
+    "source_hash": ""
+  },
+  "blocks": [
+    {
+      "block_id": "tpl00001",
+      "block_type": "text",
+      "title": "Cabeçalho",
+      "bg_color": "#2c3e50",
+      "header_color": "#1a252f",
+      "text_color": "#ffffff",
+      "font_size": 18,
+      "data_block_id": null,
+      "text_body": "Relatório de KPIs — {{mês}}",
+      "pos": {"x": 0, "y": 0},
+      "size": {"w": 600, "h": 70}
+    },
+    {
+      "block_id": "tpl00002",
+      "block_type": "kpi",
+      "title": "KPI 1",
+      "bg_color": "#ffffff",
+      "header_color": "#4285f4",
+      "text_color": "#333333",
+      "font_size": 14,
+      "data_block_id": null,
+      "text_body": "",
+      "pos": {"x": 0, "y": 90},
+      "size": {"w": 200, "h": 120}
+    },
+    {
+      "block_id": "tpl00003",
+      "block_type": "kpi",
+      "title": "KPI 2",
+      "bg_color": "#ffffff",
+      "header_color": "#34a853",
+      "text_color": "#333333",
+      "font_size": 14,
+      "data_block_id": null,
+      "text_body": "",
+      "pos": {"x": 200, "y": 90},
+      "size": {"w": 200, "h": 120}
+    },
+    {
+      "block_id": "tpl00004",
+      "block_type": "kpi",
+      "title": "KPI 3",
+      "bg_color": "#ffffff",
+      "header_color": "#ea4335",
+      "text_color": "#333333",
+      "font_size": 14,
+      "data_block_id": null,
+      "text_body": "",
+      "pos": {"x": 400, "y": 90},
+      "size": {"w": 200, "h": 120}
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "_meta": {
+    "version": "1.0",
+    "saved_at": "",
+    "block_count": 5,
+    "source_file": "",
+    "source_hash": ""
+  },
+  "blocks": [
+    {
+      "block_id": "rpt00001",
+      "block_type": "text",
+      "title": "Cabeçalho",
+      "bg_color": "#1a73e8",
+      "header_color": "#0d47a1",
+      "text_color": "#ffffff",
+      "font_size": 20,
+      "data_block_id": null,
+      "text_body": "Relatório Mensal",
+      "pos": {"x": 0, "y": 0},
+      "size": {"w": 600, "h": 80}
+    },
+    {
+      "block_id": "rpt00002",
+      "block_type": "kpi",
+      "title": "Resultado",
+      "bg_color": "#ffffff",
+      "header_color": "#1a73e8",
+      "text_color": "#333333",
+      "font_size": 14,
+      "data_block_id": null,
+      "text_body": "",
+      "pos": {"x": 0, "y": 100},
+      "size": {"w": 300, "h": 120}
+    },
+    {
+      "block_id": "rpt00003",
+      "block_type": "chart_bar",
+      "title": "Evolução",
+      "bg_color": "#ffffff",
+      "header_color": "#1a73e8",
+      "text_color": "#333333",
+      "font_size": 14,
+      "data_block_id": null,
+      "text_body": "",
+      "pos": {"x": 300, "y": 100},
+      "size": {"w": 300, "h": 200}
+    },
+    {
+      "block_id": "rpt00004",
+      "block_type": "table",
+      "title": "Detalhe",
+      "bg_color": "#ffffff",
+      "header_color": "#1a73e8",
+      "text_color": "#333333",
+      "font_size": 12,
+      "data_block_id": null,
+      "text_body": "",
+      "pos": {"x": 0, "y": 240},
+      "size": {"w": 600, "h": 200}
+    },
+    {
+      "block_id": "rpt00005",
+      "block_type": "divider",
+      "title": "",
+      "bg_color": "#ffffff",
+      "header_color": "#cccccc",
+      "text_color": "#333333",
+      "font_size": 14,
+      "data_block_id": null,
+      "text_body": "",
+      "pos": {"x": 0, "y": 460},
+      "size": {"w": 600, "h": 20}
+    }
+  ]
+}
