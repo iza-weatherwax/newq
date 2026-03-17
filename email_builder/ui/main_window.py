@@ -38,8 +38,8 @@ class MainWindow(QMainWindow):
         self.setWindowTitle("Email Builder")
         self.resize(1280, 800)
 
-        self._build_ui()
         self._build_menu()
+        self._build_ui()
         self._build_status_bar()
 
     # ------------------------------------------------------------------ #
