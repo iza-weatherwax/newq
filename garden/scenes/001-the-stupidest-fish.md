@@ -88,25 +88,53 @@ Her brain, the traitor, grabbed the safest of the three.
 
 "There are ones with *fire* antlers?"
 
-"In autumn. When the ferns turn." Sage said it the way someone in the capital would say *the bakery opens at six*. "They set the odd tree going when they fight. Nobody minds. Trees grow back."
+"In autumn. When the ferns turn." Sage said it the way you'd say *it rains in spring*. "They set the odd tree going when they fight. Nobody minds. Trees grow back."
 
 "Nobody *minds*?"
 
-"You're doing it again."
+Sage shrugged.
+
+Ymir stared at her.
+
+Fourteen volumes. Fourteen volumes of Brother Aldous's *Complete Bestiary of the Known Kingdoms*, read twice, under a blanket, after bells, in terrible light, and not a single one of them had mentioned stags with antlers made of glass. Or fire. Or birds that sang your own song back to you backwards. Or things in the reeds with too many elbows that gave your worm back folded. Or small grey creatures that held pinecones like hats and *nodded*.
+
+Nothing. Not a footnote. Not a margin drawing. She had read the appendices, the corrections, the corrections to the corrections. She had read the index. The *Complete Bestiary of the Known Kingdoms* was, as it turned out, *incomplete*.
+
+And Sage — Sage, who had watched Ymir nearly swallow her own tongue over a glass stag — thought the fire ones were better.
+
+"You're doing it again," Sage said.
 
 "Doing what?"
 
-"The face."
+"The face. The one where you're annoyed that I'm not amazed."
 
-Ymir shut her mouth. She could feel the face happening anyway, without permission.
+"I am not *annoyed* —"
 
-This was the part she hadn't prepared for. Not the creatures. The Bestiary had at least warned her about those, on the last page of volume fourteen: *Beyond the northern marches the author has not personally ventured, and does not intend to.* She had prepared for strange. She had not prepared for strange to be *normal* to somebody. Sage had been born in this. She'd grown up with stags that chimed and birds that sang backwards and things that gave your worm back. To Sage, the forest was just the forest.
+"Your sword's getting warm."
 
-The only foreign animal in it was Ymir.
+Ymir clamped her hand over the hilt. It was. Slightly.
+
+"Fine. I'm annoyed. You have *stags on fire* and you just — you just *have* them. Like they're pigeons."
+
+"We don't have pigeons."
+
+"What?"
+
+"Pigeons. Those grey birds you people keep in boxes. We don't have those. They're disgusting."
+
+"Pigeons aren't disgusting!"
+
+"They eat garbage and they stare at you."
+
+"The fish was staring at me and you didn't call that disgusting."
+
+"The fish was *judging* you. That's different."
+
+Ymir opened her mouth, closed it, and realized she'd been completely derailed. Sage was smiling. The lazy one. The one that meant she'd won something and was deciding whether to tell you.
 
 Nobody looked at Ymir like that. People *liked* Ymir. Everyone liked Ymir. The Mothers liked her, the kitchen boys liked her, the other paladins liked her in the easy way you like weather that's reliably nice. She smiled and people smiled back. She polished her armor and prayed at sunrise and was helpful, *so* helpful, and it all went down smooth, like warm milk.
 
-Nobody had ever called her beautiful like it was just something they'd noticed. Like fire antlers in autumn. A fact about the place.
+Nobody had ever called her beautiful like it was just something they'd noticed. Like fire antlers. Like it happened every autumn and you'd have to be new here to find it remarkable.
 
 She wanted it. That was the problem. She wanted it the way you want to press on a bruise.
 
