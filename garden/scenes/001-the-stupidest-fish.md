@@ -74,15 +74,39 @@ Toward her.
 
 "With glass antlers?"
 
-"No." Sage turned her head on the stone. Her eyes were very blue, the deep kind, like a well you'd be told not to lean over. "But I'd never seen you see one. That was new."
+"Yes." Sage turned her head on the stone. Her eyes were very blue, the deep kind, like a well you'd be told not to lean over. "I like the ones with fire antlers more, the deep blue kind of flames. But I have to admit that you got really cute looking at it, eyes shining, a beaming smile. it was beautiful."
 
 Ymir's face went hot all at once, like someone had opened an oven door in her head.
 
-*That's not fair,* she thought. *You can't just say things like that and then lie there.*
+*Cute.*
+
+*Beautiful.*
+
+*Fire antlers?*
+
+Her brain, the traitor, grabbed the safest of the three.
+
+"There are ones with *fire* antlers?"
+
+"In autumn. When the ferns turn." Sage said it the way someone in the capital would say *the bakery opens at six*. "They set the odd tree going when they fight. Nobody minds. Trees grow back."
+
+"Nobody *minds*?"
+
+"You're doing it again."
+
+"Doing what?"
+
+"The face."
+
+Ymir shut her mouth. She could feel the face happening anyway, without permission.
+
+This was the part she hadn't prepared for. Not the creatures. The Bestiary had at least warned her about those, on the last page of volume fourteen: *Beyond the northern marches the author has not personally ventured, and does not intend to.* She had prepared for strange. She had not prepared for strange to be *normal* to somebody. Sage had been born in this. She'd grown up with stags that chimed and birds that sang backwards and things that gave your worm back. To Sage, the forest was just the forest.
+
+The only foreign animal in it was Ymir.
 
 Nobody looked at Ymir like that. People *liked* Ymir. Everyone liked Ymir. The Mothers liked her, the kitchen boys liked her, the other paladins liked her in the easy way you like weather that's reliably nice. She smiled and people smiled back. She polished her armor and prayed at sunrise and was helpful, *so* helpful, and it all went down smooth, like warm milk.
 
-Nobody had ever watched her like she was the strange animal in the forest.
+Nobody had ever called her beautiful like it was just something they'd noticed. Like fire antlers in autumn. A fact about the place.
 
 She wanted it. That was the problem. She wanted it the way you want to press on a bruise.
 
@@ -96,7 +120,7 @@ She wanted it. That was the problem. She wanted it the way you want to press on 
 
 Ymir kept her eyes on the water.
 
-"The north has hunters," Sage went on. "The duke has soldiers. Pretty good ones, I hear. Mean. And the king sends a blessed knight of the Dawn, alone, to kill one animal. That's either a very special animal or a very special knight."
+"We have hunters up here," Sage went on. "The duke has soldiers. Mean ones. My uncle's one of them, he bites. And your king sends a blessed knight of the Dawn all the way up from the south, alone, to kill one animal in *our* woods. That's either a very special animal or a very special knight."
 
 "The duke asked for one."
 
@@ -116,7 +140,7 @@ The sword at Ymir's hip went faintly warm. Not hot. Just warm, the way a cheek g
 
 Sage sat up.
 
-Slowly. Delighted. Ymir could feel the delight from where she was crouched, it came off Sage like heat off a road.
+Slowly. Delighted. Ymir could feel the delight from where she was crouched. It came off Sage like heat off a road.
 
 "You can't lie," Sage said.
 
@@ -138,7 +162,7 @@ Sage laughed so hard she had to lie back down. Ymir watched the fish, and the fi
 
 That was a lie too. Luckily, she hadn't said it out loud.
 
-"All right," Sage said, when she could. "So. What's in the capital that a woman who can't lie is running from?"
+"All right," Sage said, when she could. "So. What's down south that a woman who can't lie has to run all the way up here from?"
 
 The forest went on humming. Somewhere upstream, the glass stag chimed.
 
@@ -161,6 +185,12 @@ The line jerked.
 Ymir yelped and hauled and the bootlace held, gods bless the cobbler, and the fish came up out of the water in a bright arc and landed flapping on the bank. It was the one that had been staring at her. She was almost sure. It had the same expression.
 
 Something dark was caught in its gills. A thread, thin as a hair, black and oddly stiff. Ymir picked it free with two fingers. It was cold. Colder than the water. She flicked it back into the stream and wiped her hand on her trousers without really thinking about it.
+
+When she looked up, Sage wasn't looking at her.
+
+First time in two weeks. Sage was looking at the water, at the spot where the thread had gone under, and there was nothing on her face at all.
+
+Then it was gone, and she was smiling again.
 
 "Congratulations," Sage said. "You've caught the stupidest fish in the forest."
 

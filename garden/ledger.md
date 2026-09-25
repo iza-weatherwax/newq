@@ -19,10 +19,12 @@ Marks: `~` provisional (made up on the fly, can be bent or dropped) ·
 ## Characters
 
 - ✓ Ymir — paladin; tall, wolf-cut hair, golden eyes; happy, bubbly, secretly yearning for something intense. (001)
+- ✓ Ymir — a foreigner up here, from the south/the capital. (001)
 - ~ Ymir — everyone likes her the easy way; nobody has ever *watched* her. Read all 14 volumes of Aldous's Bestiary twice, under a blanket after bells. (001)
 - ~ Ymir — keeps a numbered list of rules about Sage. Rule two: don't let her pick the campsite. Rule six: don't look at the tattoo. (001)
 - ✓ Sage — priestess; long black hair, deep blue eyes, tattoos across her body, flames up her neck licking her jaw; witty, sarcastic, nonchalant, bored with the world. (001)
-- ~ Sage — always smells of smoke; watches Ymir's reactions instead of the wonders. (001)
+- ✓ Sage — native to the forest/north; the wonders are ordinary to her. (001)
+- ~ Sage — always smells of smoke; watches Ymir's reactions instead of the wonders; flirts plainly ("cute", "beautiful"). Her uncle is one of the duke's soldiers ("he bites"). Calls him "your king". (001)
 - ~ The second princess — courting Ymir with lemons in winter. Her third basket came with a note: "I can wait." (001)
 - ~ Ymir's mother — thrilled about the match. (001)
 - ~ Brother Hollis — the novitiate's only other angler. Fell in. (001)
@@ -40,7 +42,9 @@ Marks: `~` provisional (made up on the fly, can be bent or dropped) ·
 - ~ A "Council" picks missions for paladins. (001)
 - ~ In the capital, sending someone lemons in winter declares romantic intentions. (001)
 - ~ Reading after bells counts as vanity in the novitiate. (001)
-- ~ The north has hunters, and the duke has soldiers ("mean"). (001)
+- ~ The north has its own hunters; the duke's soldiers are mean. Northerners may not see the king as theirs. (001)
+- ~ Stags with fire antlers (deep blue flames) in autumn, when the ferns turn; they set trees alight when they fight. Nobody minds. (001)
+- ~ Brother Aldous's Bestiary stops at the northern marches: the author "does not intend to" go further. (001)
 - ~ Forest creatures not in any book: a stag with glass antlers that chime, a bird that sings songs backwards, lights in the river that swim upstream, a thing in the reeds with too many elbows (it returned the worm, folded), a small grey animal that holds a pinecone like a hat and nods. (001)
 
 ## Running jokes & callbacks
@@ -51,6 +55,7 @@ Marks: `~` provisional (made up on the fly, can be bent or dropped) ·
 - Lemons: Ymir leaves any room that smells of them. (001)
 - "The stupidest fish in the forest." (001)
 - The pinecone creature nodding. (001)
+- "The face": Ymir's wonder face, which Sage keeps catching. (001)
 
 ## Open threads
 
@@ -59,6 +64,7 @@ Marks: `~` provisional (made up on the fly, can be bent or dropped) ·
 - Ymir hasn't said anything yet about the princess; Sage knows only that it's something in the capital. (001)
 - Rules one, three, four and five have not been revealed. (001)
 - The creature that followed them one tree behind. (001)
+- Sage went blank looking at where the black thread sank: the one time she wasn't watching Ymir. She knows something. (001)
 
 ## Scene log
 

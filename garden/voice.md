@@ -74,3 +74,4 @@ Passages or moves the author liked. Quote short, say why. Imitate these.
 Things the author rejected. Say what was wrong and what to do instead. Avoid these.
 
 <!-- - what I did → what they wanted instead (date) -->
+- Sage flirted only in clever, oblique lines ("I'd never seen you see one") → the author wants her to say it plainly and warmly too: "you got really cute… it was beautiful." Let flirts be direct; let Ymir be the one who dodges. (2026-09-25)
