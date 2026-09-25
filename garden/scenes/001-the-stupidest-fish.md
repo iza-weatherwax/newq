@@ -148,7 +148,7 @@ She wanted it. That was the problem. She wanted it the way you want to press on 
 
 Ymir kept her eyes on the water.
 
-"We have hunters up here," Sage went on. "The duke has soldiers. Mean ones. My uncle's one of them, he bites. And your king sends a blessed knight of the Dawn all the way up from the south, alone, to kill one animal in *our* woods. That's either a very special animal or a very special knight."
+"You have hunters up here," Sage went on. "The duke has soldiers. Mean ones. And your king sends a blessed knight of the Dawn all the way up, alone, to kill one animal. That's either a very special animal or a very special knight."
 
 "The duke asked for one."
 
